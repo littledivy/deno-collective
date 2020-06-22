@@ -20,10 +20,10 @@ A curated list of Deno projects that are actively looking for contributors and/o
 
 The projects below are looking for contributors.
 
-* [Placeholder project name](https://placeholderproject.link) - Placeholder project description
+* [Opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework for Deno ported from ExpressJS
 
-    ![GitHub issues](https://img.shields.io/github/issues/placeholderowner/placeholderrepo)
-    ![GitHub issues by-label](https://img.shields.io/github/issues/placeholderowner/placeholderrepo/help%20wanted.svg)
+    ![GitHub issues](https://img.shields.io/github/issues/asos-craigmorten/opine)
+    ![GitHub issues by-label](https://img.shields.io/github/issues/asos-craigmorten/opine/help%20wanted.svg)
 
 ## Projects With Good First Issues
 
@@ -32,6 +32,10 @@ The projects below have good first issues.
 * [dmm](https://github.com/drashland/dmm/issues) - Lightweight Deno Module Manager
 
     [![GitHub issues by-label](https://img.shields.io/github/issues/drashland/dmm/good%20first%20issue)](https://github.com/drashland/dmm/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+
+* [Opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework for Deno ported from ExpressJS
+
+    [![GitHub issues by-label](https://img.shields.io/github/issues/asos-craigmorten/opine/good%20first%20issue)](https://github.com/asos-craigmorten/opine/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 ## Adding Your Project To The List
 
