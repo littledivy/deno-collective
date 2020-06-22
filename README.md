@@ -20,10 +20,10 @@ A curated list of Deno projects that are actively looking for contributors and/o
 
 The projects below are looking for contributors.
 
-* [Placeholder project name](https://placeholderproject.link) - Placeholder project description
+* Autopilot - A cross-platform desktop automation framework for Deno
 
-    ![GitHub issues](https://img.shields.io/github/issues/placeholderowner/placeholderrepo)
-    ![GitHub issues by-label](https://img.shields.io/github/issues/placeholderowner/placeholderrepo/help%20wanted.svg)
+    ![GitHub issues](https://img.shields.io/github/issues/divy-work/autopilot-deno)
+    [![GitHub issues by-label](https://img.shields.io/github/issues/divy-work/autopilot-deno/good%20first%20issue)](https://github.com/<REPO_OWNER>/<REPO_NAME>/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 ## Projects With Good First Issues
 
