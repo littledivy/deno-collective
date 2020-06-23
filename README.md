@@ -36,6 +36,8 @@ The projects below have good first issues.
 * [Opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework for Deno ported from ExpressJS
 
     [![GitHub issues by-label](https://img.shields.io/github/issues/asos-craigmorten/opine/good%20first%20issue)](https://github.com/asos-craigmorten/opine/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+    
+* [Mandarine.TS](https://github.com/mandarineorg/mandarinets) - A Framework that allows you to create MVC applications. Decorator-driven, Dependency Injection and enterprise solutions.
 
 ## Adding Your Project To The List
 
