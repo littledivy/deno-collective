@@ -23,7 +23,8 @@ The projects below are looking for contributors.
 * [Autopilot](https://github.com/divy-work/autopilot-deno) - A cross-platform desktop automation framework for Deno
 
     ![GitHub issues](https://img.shields.io/github/issues/divy-work/autopilot-deno)
-    [![GitHub issues by-label](https://img.shields.io/github/issues/divy-work/autopilot-deno/good%20first%20issue)](https://github.com/<REPO_OWNER>/<REPO_NAME>/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+    ![GitHub issues by-label](https://img.shields.io/github/issues/divy-work/autopilot-deno/help%20wanted.svg)
+
 
 ## Projects With Good First Issues
 
