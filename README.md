@@ -20,6 +20,11 @@ A curated list of Deno projects that are actively looking for contributors and/o
 
 The projects below are looking for contributors.
 
+* [Autopilot](https://github.com/divy-work/autopilot-deno) - A cross-platform desktop automation framework for Deno
+
+    ![GitHub issues](https://img.shields.io/github/issues/divy-work/autopilot-deno)
+    ![GitHub issues by-label](https://img.shields.io/github/issues/divy-work/autopilot-deno/help%20wanted.svg)
+
 * [Opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework for Deno ported from ExpressJS
 
     ![GitHub issues](https://img.shields.io/github/issues/asos-craigmorten/opine)
@@ -28,6 +33,10 @@ The projects below are looking for contributors.
 ## Projects With Good First Issues
 
 The projects below have good first issues.
+
+* [Autopilot](https://github.com/divy-work/autopilot-deno) - A cross-platform desktop automation framework for Deno
+
+    [![GitHub issues by-label](https://img.shields.io/github/issues/divy-work/autopilot-deno/good%20first%20issue)](https://github.com/divy-work/autopilot-deno/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 * [dmm](https://github.com/drashland/dmm/issues) - Lightweight Deno Module Manager
 
