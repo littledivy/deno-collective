@@ -40,6 +40,18 @@ The projects below have good first issues.
 * [Mandarine.TS](https://github.com/mandarineorg/mandarinets) - A Framework that allows you to create MVC applications. Decorator-driven, Dependency Injection and enterprise solutions.
     
     [![GitHub issues by-label](https://img.shields.io/github/issues/mandarineorg/mandarinets/good%20first%20issue)](https://github.com/mandarineorg/mandarinets/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+    
+* [Drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
+
+    [![GitHub issues by-label](https://img.shields.io/github/issues/drashland/deno-drash/good%20first%20issue)](https://github.com/drashland/deno-drash/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+
+* [Rhum](https://github.com/drashland/rhum) - A lightweight testing framework for Deno.
+
+    [![GitHub issues by-label](https://img.shields.io/github/issues/drashland/rhum/good%20first%20issue)](https://github.com/drashland/rhum/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+
+* [Drash-Middleware](https://github.com/drashland/deno-drash-middleware) - A middleware library for Drash.
+
+    [![GitHub issues by-label](https://img.shields.io/github/issues/drashland/deno-drash-middleware/good%20first%20issue)](https://github.com/drashland/deno-drash-middleware/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 ## Adding Your Project To The List
 
