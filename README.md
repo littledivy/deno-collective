@@ -25,6 +25,10 @@ The projects below are looking for contributors.
     ![GitHub issues](https://img.shields.io/github/issues/divy-work/autopilot-deno)
     ![GitHub issues by-label](https://img.shields.io/github/issues/divy-work/autopilot-deno/help%20wanted.svg)
 
+* [Opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework for Deno ported from ExpressJS
+
+    ![GitHub issues](https://img.shields.io/github/issues/asos-craigmorten/opine)
+    ![GitHub issues by-label](https://img.shields.io/github/issues/asos-craigmorten/opine/help%20wanted.svg)
 
 ## Projects With Good First Issues
 
@@ -37,6 +41,26 @@ The projects below have good first issues.
 * [Autopilot](https://github.com/divy-work/autopilot-deno) - A cross-platform desktop automation framework for Deno
 
     [![GitHub issues by-label](https://img.shields.io/github/issues/divy-work/autopilot-deno/good%20first%20issue)](https://github.com/divy-work/autopilot-deno/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+    
+* [Drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
+
+    [![GitHub issues by-label](https://img.shields.io/github/issues/drashland/deno-drash/good%20first%20issue)](https://github.com/drashland/deno-drash/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+    
+* [Drash-Middleware](https://github.com/drashland/deno-drash-middleware) - A middleware library for Drash.
+
+    [![GitHub issues by-label](https://img.shields.io/github/issues/drashland/deno-drash-middleware/good%20first%20issue)](https://github.com/drashland/deno-drash-middleware/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+    
+* [Mandarine.TS](https://github.com/mandarineorg/mandarinets) - A Framework that allows you to create MVC applications. Decorator-driven, Dependency Injection and enterprise solutions.
+    
+    [![GitHub issues by-label](https://img.shields.io/github/issues/mandarineorg/mandarinets/good%20first%20issue)](https://github.com/mandarineorg/mandarinets/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+
+* [Opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework for Deno ported from ExpressJS
+
+    [![GitHub issues by-label](https://img.shields.io/github/issues/asos-craigmorten/opine/good%20first%20issue)](https://github.com/asos-craigmorten/opine/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+
+* [Rhum](https://github.com/drashland/rhum) - A lightweight testing framework for Deno.
+
+    [![GitHub issues by-label](https://img.shields.io/github/issues/drashland/rhum/good%20first%20issue)](https://github.com/drashland/rhum/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 ## Adding Your Project To The List
 
