@@ -29,6 +29,11 @@ The projects below are looking for contributors.
 
     ![GitHub issues](https://img.shields.io/github/issues/asos-craigmorten/opine)
     ![GitHub issues by-label](https://img.shields.io/github/issues/asos-craigmorten/opine/help%20wanted.svg)
+    
+* [Trex](https://github.com/crewdevio/Trex) - Package manager for deno based on import map 🦕
+
+    ![GitHub issues](https://img.shields.io/github/issues/crewdevio/Trex)
+    ![GitHub issues by-label](https://img.shields.io/github/issues/crewdevio/Trex/help%20wanted.svg)
 
 ## Projects With Good First Issues
 
